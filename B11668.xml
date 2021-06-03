@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>John Bon and Mast Person</title>
+            <author>Shepherd, Luke, fl. 1548.</author>
+         </titleStmt>
+         <extent>Approx. 13KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11668</idno><idno type="EEBO-CITATION">22091476</idno>
+  <idno type="VID">178530</idno>
+  <idno type="EEBO-PROQUEST">2240927488</idno>
+  <idno type="STC">STC 3258.5</idno>
+  <idno type="STC">ESTC S211</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178530)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1746:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>John Bon and Mast Person</title>
+                  <author>Shepherd, Luke, fl. 1548.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprinted by J. Daye and W. Seres,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1548?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satirical dialogue in verse.</note>
+                  <note>Attributed to Shepherd by NUC pre-1956 imprints.</note>
+                  <note>Illustrated t.p.</note>
+                  <note>Imprint suggested by NUC pre-1956 imprints and STC (2nd ed.).</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178530:1"/>
+            <head>¶ Iohn Bon and Mast person<figure>
+                  <figDesc>Eucharistic procession</figDesc>
+               </figure>
+            </head>
+            <l>☞ Alas<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e poore fooles, so sore ye be lade</l>
+            <l>No maruel it is, thoughe your shoulders ake</l>
+            <l>For ye beare a great God, which ye your selfes made</l>
+            <l>Make of it what ye wyl, it is a wafar cake</l>
+            <l>And betwen two Irons printed it is and bake</l>
+            <l>And loke where Idolatrye is, Christe wyl not be there</l>
+            <l>Wherfore ley downe your burden, and Idoleye do beare</l>
+            <l>☞ Alasse poore</l>
+            <l>Fooles.</l>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <sp>
+               <pb facs="tcp:178530:2"/>
+               <speaker>☞ The parson</speaker>
+               <l>
+                  <seg rend="decorInit">W</seg>Hat Iohn Bon good morowe to the</l>
+            </sp>
+            <sp>
+               <speaker>Iohn Bon.</speaker>
+               <l>Nowe good morowe mast parson so mut I thee</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>What meanest y<seg rend="sup">u</seg> Iohn to be at worke so sone</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>The zoner I begyne the zoner shall I haue done</l>
+               <l>For I tende to warke no longer then none</l>
+            </sp>
+            <sp>
+               <speaker>Parson.</speaker>
+               <l>Mary Iohn for that gods blessinge on thy herte</l>
+               <l>For surely some therbe wyl go to ploughe an carte</l>
+               <l>And set not by thys holy, corpus christi euen</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>They aer the more to blame I swere by saynt Steuen</l>
+               <l>But tell me mast parson one thinge and you can</l>
+               <l>What saynt is copsi cursty a man or a woman?</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Why Iohn knoweste not that? I tel the it was a man,</l>
+               <l>It is Christe his owne selfe and to morowe is hys daye</l>
+               <l>We beare hym in profession and thereby knowe it ye maye</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>I knowe mast parson? and na by my faye</l>
+               <l>But me thinke it is a mad thinge that ye saye</l>
+               <l>That it shoulde be a man howe can it come to passe</l>
+               <l>Because ye maye hym beare with in so smal a glasse</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Why neybor Iohn and art thou nowe there?</l>
+               <l>Nowe I maye perceyue ye loue thys newe geare</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Gods forbod master, I should be of that facion</l>
+               <l>I question wy your mashippe in waye of cumlication</l>
+               <l>A playne man ye may se wil speake as cometh to mind</l>
+               <l>Ye muste holde vs ascused for plowe men be but biynd</l>
+               <pb facs="tcp:178530:2"/>
+               <l>I am an elde felowe of fifty wynter and more</l>
+               <l>And yet in all my lyfe I knewe not this before</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>No dyd, why sayest thou so, vpon thy selfe thou lyest</l>
+               <l>Thou haste euer knowen the sacramente to be the body of Christ</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Ye syr ye say true, all that I know in dede</l>
+               <l>And yet as I remember it is not in my crede</l>
+               <l>But as for cropsy cursty to be a man or no</l>
+               <l>I knewe not tyll thys day by the waye my soule shal to</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Why folishe felowe, I tel the it is so</l>
+               <l>For it was so determined by the churche longe ago</l>
+               <l>It is both the sacramente and very Christ him selfe</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>No spleaser mast parson then make ye Christe an elfe</l>
+               <l>And the maddest made man that euerbody sawe</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>What? peace mad man thou speakeste lyke a dawe</l>
+               <l>It is not possible hys manhode for to se</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Why sir ye tell me it is euen verye he</l>
+               <l>And if it be not his manhode, his godhed it must be</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>I tell the none of both, what meaneste thou, art y<seg rend="sup">u</seg> mad?</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>No nother mad nor druncke, but to learne I am glade</l>
+               <l>But to displease your mashippe I woulde be very loth</l>
+               <l>Ye graunt me here playnly that it is none of boeth</l>
+               <l>Then is it but a cake, but I pray ye be not wroth.</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Wroth quod ha, by the masse y<seg rend="sup">u</seg> makest me swere an othe</l>
+               <l>I hade leuer wyth a docter of diuinitie to reason</l>
+               <l>Then wyth a stubble cur that eateth beanes and peason</l>
+            </sp>
+            <sp>
+               <pb facs="tcp:178530:3"/>
+               <speaker>Iohn</speaker>
+               <l>I crie ye mercye mast person pacience for a season</l>
+               <l>In all thys cumlicacion is nother felony nor treason</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>No by the masse but herest thou, it is playne heresye</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>I am glade it chaunced so, theyr was no witnes by</l>
+               <l>And if ther had I cared not, for ye spake as yl as I</l>
+               <l>I speake but as I harde you saye I wot not what ye thought</l>
+               <l>Ye sayd it was not God nor man &amp; made it worsse then nought</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>I ment not so, thou tokeste me wronge</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>A sir ye singe another songe</l>
+               <l>I dare not reason wyth you longe</l>
+               <l>I se well nowe ye haue a knacke</l>
+               <l>To saye a thynge and then go backe</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>No Iohn I was but a littyll ouer sene</l>
+               <l>But thou mentest not good fayeth I wene</l>
+               <l>In all thys talke that was vs betwene</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>I? no trowe it shannot so beene</l>
+               <l>That Iohn Bon shall an heretike be calde</l>
+               <l>Then myght he saye him so fowle befalde.</l>
+            </sp>
+            <sp>
+               <speaker>Parson.</speaker>
+               <l>But nowe if thou wylt marke me well</l>
+               <l>From begynninge to endynge I wyl the tell</l>
+               <l>Of the godly seruice that shalbe to morowe</l>
+               <l>That or I haue done no doubte thou wylt sorowe</l>
+               <l>To here that suche thynges shoulde be fordone</l>
+               <l>And yet in many places they haue be gun</l>
+               <l>To take a waye the olde and set vp newe</l>
+               <pb facs="tcp:178530:3"/>
+               <l>Beleue me Iohn thys tale is true</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Go to mast parson saye on and well to thryne</l>
+               <l>Ye be the Iolest gēman that euer sawe in my lyue</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>We shal firste haue matins, is it not a godly hereynge▪</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Fie? Yes, me thinke tis a shamefull gay chearynge</l>
+               <l>For often times on my prayers, when I take no greate kepe</l>
+               <l>Ye sing so arantly well, ye make me fal a slepe</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Then haue we profession and Christe aboute we beare</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>That is apoysone holy thinge, for God him selfe is ther</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Than comme we in and redy vs dresse</l>
+               <l>Full solempnely to goo to Messe</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Is not here a mischeuous thynge?</l>
+               <l>The Messe is vengaunce holye for all ther sayeinge</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Then saye we Confiteor and miseriatur</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Ieze Lorde tis abbominable matter</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>And then we stande vp to the auter</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Thys geere is as good as oure ladies sawter</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>And so gose fourth wyth the other dele</l>
+               <l>Tyll we haue rede the Pistell and Gospell</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>That is good mast person I knowe ryght well</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <pb facs="tcp:178530:4"/>
+               <l>Is that good? why what sayste thou to the other</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Mary horrible good I saye none other</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>So is all the messe I dare auow this</l>
+               <l>As good in euery poynte as Pistell or Gospel is</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>The fowle euyll it is, whoe woulde thynke so muche</l>
+               <l>In fayeth I euer thought that it had bene no suche</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Then haue we the canon that is holyest</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>A spightfull gay thynge of all that euer I wyst</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Then haue we the memento euen before the sacringe</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Ye are morenly well learned I se by your recknynge</l>
+               <l>That ye wyll not forget suche an eluyshe thynge</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>And after that we consecrate very God and man</l>
+               <l>And turne the breade to fleshe wyth fyue wordes we cā</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>The deuell ye do I trowe. Ther is pestilence busines</l>
+               <l>Ye are much boūde to god, for suche a spittell holines</l>
+               <l>A galows gay gifte wyth fyue wordes alone</l>
+               <l>To make boeth God and man and yet wese none</l>
+               <l>Ye talke so vnreasonably well, it maketh my herte yerne</l>
+               <l>As elde a felow as yche am I se well I maye learne</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Yea Iohn and then wyth wordes holy and good</l>
+               <l>Euen by and by we tourne the wyne to bloude</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Lo wyll ye se lo? who woulde haue thought it</l>
+               <pb facs="tcp:178530:4"/>
+               <l>That ye could so sone, from wine to bloud ha brought it</l>
+               <l>And yet except your mouth, be better tasted than myne</l>
+               <l>I can not fele it other but that it shoulde be wyne</l>
+               <l>And yet I wote nere a cause ther maye be whye</l>
+               <l>Perchaunce ye ha dronke bloude ofter then euer dyd I</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Truely Iohn it is bloud though it be wine in taste</l>
+               <l>As soone as the worde is spoke the wyne is gone &amp; past</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>A sessions on it for me my wyttes are me benumme</l>
+               <l>For I can not study where the wyne shoulde become</l>
+            </sp>
+            <sp>
+               <speaker>Parson.</speaker>
+               <l>Study quod ha, beware and let suche matter go</l>
+               <l>To meddle muche wyth thys may brynge ye sone to wo</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>Yea but mast parson thynk ye it were ryght</l>
+               <l>That if I desired you to make my blake oxe whight</l>
+               <l>And you saye it is done, and styl is <gap reason="illegible" resp="#murp" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>acke in syght</l>
+               <l>Ye myght me deme a foole for to beleue so lyght</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>I maruell muche ye wyll reason so farre</l>
+               <l>I feare if ye vse it, it wyll ye mar</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>No no sir I truste of that I wylbe ware</l>
+               <l>I praye you wyth your matter agayne fourth to fare</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>And thē we go forth and Christes body receyue</l>
+               <l>Euyn the very same that mary dyd conceyue</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>The deuill it is, ye haue a greate grace</l>
+               <l>To eate God and man in so short, a space</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>And so we make an ende as it lieth in an order,</l>
+               <pb facs="tcp:178530:5"/>
+               <l>But now the blessed mene is hated in euery border</l>
+               <l>And railed on &amp; reuiled, w<seg rend="sup">t</seg> wordes most blasphemous</l>
+               <l>But I trust it wylbe better w<seg rend="sup">t</seg> the help of Catechismus</l>
+               <l>For thoughe it came forth but euen that other day</l>
+               <l>Yet hath it tourned many to ther olde waye</l>
+               <l>And where they hated meste and had it in disdayne</l>
+               <l>There haue they messe and matins in latyne tonge againe</l>
+               <l>Ye euen in Londō selfe (Iohn) I tel the troeth</l>
+               <l>They be ful glade &amp; mery to here of thys God knoweth</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>By my trueth mast parson I lyke full wel your talke</l>
+               <l>But masse me no more messinges. The right way wil I walke</l>
+               <l>For thoughe I haue no learning yet I know chese frō chalke</l>
+               <l>And yche can perceiue your iuggling as crafty as ye walke</l>
+               <l>But leue your deuilish masse &amp; y<seg rend="sup">e</seg> cōmuniō to you take</l>
+               <l>And thē will Christ be w<seg rend="sup">t</seg> you euē for his promisse sake</l>
+            </sp>
+            <sp>
+               <speaker>Parson</speaker>
+               <l>Why art thou suche a one and kept it so closse</l>
+               <l>Wel al is not golde that hath a fayre glosse</l>
+               <l>But farewel Iohn Bon god bringe the in better mind</l>
+            </sp>
+            <sp>
+               <speaker>Iohn</speaker>
+               <l>I thanke you sir for that you seme verie kynde</l>
+               <l>But praye not so for me for I am well In oughe</l>
+               <l>Whistill boy, driue furth God spede vs and the plough</l>
+               <l>Ha browne done, forth that horson crabbe</l>
+               <l>Ree comomyne, garlde, wyth haight blake ha</l>
+               <l>Haue a gayne bald before, hayght ree who,</l>
+               <l>Cherly boy cum of that whomwarde we maye goo</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>☞ Imprinted at London by Iohn Daye, and Willyā Seres, dwellinge in Sepulchres Parishe at the signe of the resurrection a littel aboue Holbourne conduite.</p>
+            <p>
+               <hi>❧ Cum gratia &amp; priuilegio ad imprimendum solum.</hi>
+            </p>
+            <pb facs="tcp:178530:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
